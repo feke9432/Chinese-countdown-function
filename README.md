@@ -10,3 +10,6 @@
 ## node.js轮子 => node/
 > 1. bulkReplaceCont.js =>  
 > node.js 批量改内容脚本。
+
+> 2. copyAll => 
+> node.js 同步复制整个问价夹的内容
