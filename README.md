@@ -7,6 +7,9 @@
 > 2. scroll.js =>  
 > 一个为元素添加滚动到哪里就执行一些命令的函数，支持 common.js 语法。
 
+> 3. dianji =>
+> 点击加星星，并上方30度随机飘动
+
 ## node.js轮子 => node/
 > 1. bulkReplaceCont.js =>  
 > node.js 批量改内容脚本。

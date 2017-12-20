@@ -1,0 +1,23 @@
+#addXin {
+    position: absolute;
+    right: .4rem;
+    top: -0.1rem;
+    font-size: .1rem;
+    color: #fe350e;
+    opacity: 0;
+}
+.icon-list.cl > img {
+    width: .28rem;
+    height: .28rem;
+    display: block;
+    position: absolute;
+    right: 1.25rem;
+    top: .32rem;
+}
+.icon-list .kuang.red {
+    position: relative;
+    color: #ff350e;
+    border-radius: .4rem;
+    float: right;
+    padding: .08rem .3rem .08rem .55rem;
+}
